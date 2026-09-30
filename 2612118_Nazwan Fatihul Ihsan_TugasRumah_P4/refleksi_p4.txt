@@ -1,0 +1,15 @@
+1. Mengapa array lebih efisien dibandingkan mendeklarasikan tujuh variabel float terpisah untuk menyimpan
+tujuh sampel arus?
+: karena array cukup mendeklarasikan kategori untuk menyimpan 7 data sampel arus.
+
+2. Jelaskan apa yang akan terjadi (atau berpotensi terjadi) jika program mencoba mengakses index yang berada
+di luar batas ukuran array. 
+: output akan error karena index tidak terdefinisi
+
+3. Berikan satu contoh nyata di bidang Teknik Elektro di mana array dua dimensi akan sangat berguna, selain
+tabel pengukuran yang dibahas di kelas.
+:array 2 dimensi akan sangat berguna ketika kita sedang mendata nama, type, kode pada batrai yang jumlahnya banyak
+
+4. Menurut Anda, mengapa mempelajari array SEBELUM mempelajari perulangan (for) tetap bermanfaat,
+meskipun keduanya sering dipakai bersamaan?
+:karena materi yang lebih mudah di pahami yaitu array, setelah itu baru ke yang lebih sulit yaitu perulangan(for)
